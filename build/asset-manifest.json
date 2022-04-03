@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TaskRoomies/static/css/main.0337a597.css",
+    "main.js": "/TaskRoomies/static/js/main.1a1e0fa7.js",
+    "static/js/787.9e77d474.chunk.js": "/TaskRoomies/static/js/787.9e77d474.chunk.js",
+    "static/media/profile-picture.gif": "/TaskRoomies/static/media/profile-picture.c828753a7f1d2e7769f0.gif",
+    "index.html": "/TaskRoomies/index.html",
+    "main.0337a597.css.map": "/TaskRoomies/static/css/main.0337a597.css.map",
+    "main.1a1e0fa7.js.map": "/TaskRoomies/static/js/main.1a1e0fa7.js.map",
+    "787.9e77d474.chunk.js.map": "/TaskRoomies/static/js/787.9e77d474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0337a597.css",
+    "static/js/main.1a1e0fa7.js"
+  ]
+}
